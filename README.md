@@ -1,1 +1,3 @@
-# Data_Visualization_on_-Flight_Information
+## Data Visualization on Flight Information
+-  This project provides data visualization on 200,000+ records of US flight information between 2003 and 2015.
+-  Implemented D3.js to visualize yearly on-time arrival rates for top US domestic airlines.
